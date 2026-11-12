@@ -1,0 +1,23 @@
+{
+  "raw_test.csv": {
+    "rows": 5007,
+    "classes": [
+      "UNK"
+    ],
+    "sha256": "5d33a9e9df4b2c9e1ff5ae3a469d4b4db547898b7454b5eae1b4c8bae9c48456"
+  },
+  "raw_train.csv": {
+    "rows": 40008,
+    "classes": [
+      "UNK"
+    ],
+    "sha256": "90e16c7bace48d3ed868eda41188a710ffd8b45ef0a707d17e3af1a8af3e2700"
+  },
+  "raw_val.csv": {
+    "rows": 5001,
+    "classes": [
+      "UNK"
+    ],
+    "sha256": "47416a3bf3d2f2e62d88d58c8799a2a5810bbb0e73f2b93a6fd71eab15af080b"
+  }
+}

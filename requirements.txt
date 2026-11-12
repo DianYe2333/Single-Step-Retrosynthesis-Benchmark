@@ -1,0 +1,6 @@
+numpy==2.5.4
+torch==2.15.0
+rdkit==2026.9.1
+rdchiral==1.1.0
+matplotlib==3.11.2
+pillow==13.0.0

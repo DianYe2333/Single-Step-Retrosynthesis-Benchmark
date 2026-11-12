@@ -1,0 +1,62 @@
+[
+  {
+    "method": "NeuralSym",
+    "subset": "all",
+    "n": 500,
+    "top1": 0.388,
+    "top5": 0.626,
+    "top10": 0.686,
+    "median_seconds": 0.03620820000105596,
+    "mean_seconds": 0.05505271179990814
+  },
+  {
+    "method": "RetroSim",
+    "subset": "all",
+    "n": 500,
+    "top1": 0.384,
+    "top5": 0.672,
+    "top10": 0.742,
+    "median_seconds": 0.1287159999992582,
+    "mean_seconds": 0.16700659379982244
+  },
+  {
+    "method": "NeuralSym",
+    "subset": "no_exact_overlap",
+    "n": 497,
+    "top1": 0.3843058350100604,
+    "top5": 0.6237424547283702,
+    "top10": 0.6841046277665996,
+    "median_seconds": 0.03615410000202246,
+    "mean_seconds": 0.05494526358139571
+  },
+  {
+    "method": "RetroSim",
+    "subset": "no_exact_overlap",
+    "n": 497,
+    "top1": 0.38028169014084506,
+    "top5": 0.670020120724346,
+    "top10": 0.7404426559356136,
+    "median_seconds": 0.1284745999982988,
+    "mean_seconds": 0.16673725975837353
+  },
+  {
+    "method": "NeuralSym",
+    "subset": "novel_product",
+    "n": 494,
+    "top1": 0.3866396761133603,
+    "top5": 0.6255060728744939,
+    "top10": 0.6842105263157895,
+    "median_seconds": 0.03617180000037479,
+    "mean_seconds": 0.054883370445241754
+  },
+  {
+    "method": "RetroSim",
+    "subset": "novel_product",
+    "n": 494,
+    "top1": 0.3825910931174089,
+    "top5": 0.6680161943319838,
+    "top10": 0.7388663967611336,
+    "median_seconds": 0.12836014999993495,
+    "mean_seconds": 0.16663853319820515
+  }
+]

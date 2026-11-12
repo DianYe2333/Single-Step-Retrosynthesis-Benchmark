@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+runs/
+*.pt
+*.partial
+.DS_Store
+Thumbs.db
+/build_report.py
+/build_slides.mjs
+/finalize_slides.mjs

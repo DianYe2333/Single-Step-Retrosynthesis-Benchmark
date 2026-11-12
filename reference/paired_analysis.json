@@ -1,0 +1,22 @@
+{
+  "n": 500,
+  "paired_difference_NeuralSym_minus_RetroSim": [
+    0.004,
+    -0.046,
+    -0.056
+  ],
+  "bootstrap_95_percentile_ci": [
+    [
+      -0.038,
+      -0.088,
+      -0.096
+    ],
+    [
+      0.048,
+      -0.004,
+      -0.016
+    ]
+  ],
+  "both_top10": 303,
+  "either_top10": 411
+}

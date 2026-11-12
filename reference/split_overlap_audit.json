@@ -1,0 +1,21 @@
+{
+  "train": {
+    "n": 40008,
+    "unique_reactions": 39803,
+    "unique_products": 39736
+  },
+  "val": {
+    "n": 5001,
+    "unique_reactions": 4995,
+    "unique_products": 4993
+  },
+  "test": {
+    "n": 5007,
+    "unique_reactions": 5005,
+    "unique_products": 5003
+  },
+  "train_test_overlap": {
+    "exact_reactions": 50,
+    "products": 70
+  }
+}
